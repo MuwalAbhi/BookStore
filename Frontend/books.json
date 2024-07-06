@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "name":"Physics Vol-1",
+        "title":"This is 12th class physics vol-1 book.",
+        "category":"Free",
+        "image":"https://images.toopa.com/130542_basher-science-physics-matter-why-matter-matters-s.jpg",
+        "type":"science"
+    },
+    {
+        "id":2,
+        "name":"Physics Vol-2",
+        "title":"This is 12th class physics vol-2 book.",
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/910nuXZ72dL._AC_UF1000,1000_QL80_.jpg",
+        "type":"science"
+    },
+    {
+        "id":3,
+        "name":"Sleeping Beauty",
+        "title":"This is a story book.",
+        "category":"Paid",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNCDtFkGUrPAvUaG01FOosnnNFztYOQ2hG8w&s",
+        "type":"story"
+    },
+    {
+        "id":4,
+        "name":"Bhagwat Geeta",
+        "title":"This is Bhagwat Geeta book in English.",
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/715smRhK8JL._AC_UF1000,1000_QL80_.jpg",
+        "type":"religious"
+    },
+    {
+        "id":5,
+        "name":"Ramayan",
+        "title":"Ramayan Book",
+        "category":"Free",
+        "image":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzsqyXepmMikcSGcEFBZbzCiPnrmsM-1mAJ__0j9vH7P6fwvigiHPbI7q8D6hcBJeOIeOrM6KFOHkFC29vZmAmBggxHUs0GinkvwKVnqR5KkMkos-xg3fgww&usqp=CAc",
+        "type":"religious"
+    },
+    {
+        "id":6,
+        "name":"Story Thieves",
+        "title":"This is a story book.",
+        "category":"paid",
+        "image":"https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781481409209/story-thieves-9781481409209_hr.jpg",
+        "type":"story"
+    },
+    {
+        "id":7,
+        "name":"Math Book",
+        "title":"This is 12th class math book",
+        "category":"Free",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfF-AWRod5tpuNhfY7LvXK9kliQc1hDK-blg&s",
+        "type":"science"
+    }
+
+]
